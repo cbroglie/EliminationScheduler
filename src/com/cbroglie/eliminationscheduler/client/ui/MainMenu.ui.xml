@@ -1,0 +1,20 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+
+	<ui:style> 
+		.topBar {
+			margin: 3px 8px 0px;
+		}
+	</ui:style>
+
+	<ui:with type="com.cbroglie.eliminationscheduler.client.NameTokens" field="nameTokens"></ui:with> 
+ 
+	<g:HTMLPanel addStyleNames='{style.topBar}'> 
+		<g:InlineHyperlink targetHistoryToken="{nameTokens.getSchedulePage}">View Schedule</g:InlineHyperlink> |
+		<g:InlineHyperlink targetHistoryToken="{nameTokens.getMyPicksPage}">My Picks</g:InlineHyperlink> |
+		<g:InlineHyperlink targetHistoryToken="{nameTokens.getManageEntriesPage}">Manage Entries</g:InlineHyperlink> |
+		<g:InlineHyperlink targetHistoryToken="{nameTokens.getAboutUsPage}">About Us</g:InlineHyperlink>
+	</g:HTMLPanel> 
+
+</ui:UiBinder>

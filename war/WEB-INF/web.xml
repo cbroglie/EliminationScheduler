@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+  
+  <!-- Default page to serve -->
+  <welcome-file-list>
+    <welcome-file>EliminationScheduler.html</welcome-file>
+  </welcome-file-list>
+
+  <context-param>
+    <!-- max size of the upload request -->
+    <param-name>maxSize</param-name>
+    <param-value>3145728</param-value>
+  </context-param>
+  <context-param>
+    <!-- Useful in development mode to slow down the uploads in fast networks.
+         Put the number of milliseconds to sleep in each block received in the server.
+         false or 0, means don't use slow uploads  -->
+    <param-name>slowUploads</param-name>
+    <param-value>0</param-value>
+  </context-param>
+
+  <!-- Filters -->
+  <filter>
+    <filter-name>guiceFilter</filter-name>
+    <filter-class>com.google.inject.servlet.GuiceFilter</filter-class>
+  </filter>
+
+  <filter-mapping>
+    <filter-name>guiceFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
+
+  <listener>
+    <listener-class>com.cbroglie.eliminationscheduler.server.guice.EliminationSchedulerContextListener</listener-class>
+  </listener>
+
+</web-app>

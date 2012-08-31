@@ -1,0 +1,256 @@
+1,THU SEP 9 2010,8:30 PM,Minnesota,New Orleans,MIN,NO
+1,SUN SEP 12 2010,1:00 PM,Miami,Buffalo,MIA,BUF
+1,SUN SEP 12 2010,1:00 PM,Detroit,Chicago,DET,CHI
+1,SUN SEP 12 2010,1:00 PM,Oakland,Tennessee,OAK,TEN
+1,SUN SEP 12 2010,1:00 PM,Cincinnati,New England,CIN,NE
+1,SUN SEP 12 2010,1:00 PM,Carolina,NY Giants,CAR,NYG
+1,SUN SEP 12 2010,1:00 PM,Atlanta,Pittsburgh,ATL,PIT
+1,SUN SEP 12 2010,1:00 PM,Cleveland,Tampa Bay,CLE,TB
+1,SUN SEP 12 2010,1:00 PM,Denver,Jacksonville,DEN,JAC
+1,SUN SEP 12 2010,1:00 PM,Indianapolis,Houston,IND,HOU
+1,SUN SEP 12 2010,4:15 PM,San Francisco,Seattle,SF,SEA
+1,SUN SEP 12 2010,4:15 PM,Green Bay,Philadelphia,GB,PHI
+1,SUN SEP 12 2010,4:15 PM,Arizona,St. Louis,ARI,STL
+1,SUN SEP 12 2010,8:20 PM,Dallas,Washington,DAL,WAS
+1,MON SEP 13 2010,7:00 PM,Baltimore,NY Jets,BAL,NYJ
+1,MON SEP 13 2010,10:15 PM,San Diego,Kansas City,SD,KAN
+2,SUN SEP 19 2010,1:00 PM,Arizona,Atlanta,ARI,ATL
+2,SUN SEP 19 2010,1:00 PM,Baltimore,Cincinnati,BAL,CIN
+2,SUN SEP 19 2010,1:00 PM,Kansas City,Cleveland,KAN,CLE
+2,SUN SEP 19 2010,1:00 PM,Chicago,Dallas,CHI,DAL
+2,SUN SEP 19 2010,1:00 PM,Philadelphia,Detroit,PHI,DET
+2,SUN SEP 19 2010,1:00 PM,Buffalo,Green Bay,BUF,GB
+2,SUN SEP 19 2010,1:00 PM,Pittsburgh,Tennessee,PIT,TEN
+2,SUN SEP 19 2010,1:00 PM,Miami,Minnesota,MIA,MIN
+2,SUN SEP 19 2010,1:00 PM,Tampa Bay,Carolina,TB,CAR
+2,SUN SEP 19 2010,4:05 PM,Seattle,Denver,SEA,DEN
+2,SUN SEP 19 2010,4:05 PM,St. Louis,Oakland,STL,OAK
+2,SUN SEP 19 2010,4:15 PM,New England,NY Jets,NE,NYJ
+2,SUN SEP 19 2010,4:15 PM,Jacksonville,San Diego,JAC,SD
+2,SUN SEP 19 2010,4:15 PM,Houston,Washington,HOU,WAS
+2,SUN SEP 19 2010,8:20 PM,NY Giants,Indianapolis,NYG,IND
+2,MON SEP 20 2010,8:30 PM,New Orleans,San Francisco,NO,SF
+3,SUN SEP 26 2010,1:00 PM,San Francisco,Kansas City,SF,KAN
+3,SUN SEP 26 2010,1:00 PM,Detroit,Minnesota,DET,MIN
+3,SUN SEP 26 2010,1:00 PM,Buffalo,New England,BUF,NE
+3,SUN SEP 26 2010,1:00 PM,Atlanta,New Orleans,ATL,NO
+3,SUN SEP 26 2010,1:00 PM,Tennessee,NY Giants,TEN,NYG
+3,SUN SEP 26 2010,1:00 PM,Pittsburgh,Tampa Bay,PIT,TB
+3,SUN SEP 26 2010,1:00 PM,Cincinnati,Carolina,CIN,CAR
+3,SUN SEP 26 2010,1:00 PM,Cleveland,Baltimore,CLE,BAL
+3,SUN SEP 26 2010,1:00 PM,Dallas,Houston,DAL,HOU
+3,SUN SEP 26 2010,4:05 PM,Philadelphia,Jacksonville,PHI,JAC
+3,SUN SEP 26 2010,4:05 PM,Washington,St. Louis,WAS,STL
+3,SUN SEP 26 2010,4:15 PM,Indianapolis,Denver,IND,DEN
+3,SUN SEP 26 2010,4:15 PM,Oakland,Arizona,OAK,ARI
+3,SUN SEP 26 2010,4:15 PM,San Diego,Seattle,SD,SEA
+3,SUN SEP 26 2010,8:20 PM,NY Jets,Miami,NYJ,MIA
+3,MON SEP 27 2010,8:30 PM,Green Bay,Chicago,GB,CHI
+4,SUN OCT 3 2010,1:00 PM,San Francisco,Atlanta,SF,ATL
+4,SUN OCT 3 2010,1:00 PM,NY Jets,Buffalo,NYJ,BUF
+4,SUN OCT 3 2010,1:00 PM,Cincinnati,Cleveland,CIN,CLE
+4,SUN OCT 3 2010,1:00 PM,Detroit,Green Bay,DET,GB
+4,SUN OCT 3 2010,1:00 PM,Denver,Tennessee,DEN,TEN
+4,SUN OCT 3 2010,1:00 PM,Seattle,St. Louis,SEA,STL
+4,SUN OCT 3 2010,1:00 PM,Carolina,New Orleans,CAR,NO
+4,SUN OCT 3 2010,1:00 PM,Baltimore,Pittsburgh,BAL,PIT
+4,SUN OCT 3 2010,4:05 PM,Houston,Oakland,HOU,OAK
+4,SUN OCT 3 2010,4:05 PM,Indianapolis,Jacksonville,IND,JAC
+4,SUN OCT 3 2010,4:15 PM,Arizona,San Diego,ARI,SD
+4,SUN OCT 3 2010,4:15 PM,Washington,Philadelphia,WAS,PHI
+4,SUN OCT 3 2010,8:20 PM,Chicago,NY Giants,CHI,NYG
+4,MON OCT 4 2010,8:30 PM,New England,Miami,NE,MIA
+5,SUN OCT 10 2010,1:00 PM,Jacksonville,Buffalo,JAC,BUF
+5,SUN OCT 10 2010,1:00 PM,Tampa Bay,Cincinnati,TB,CIN
+5,SUN OCT 10 2010,1:00 PM,Atlanta,Cleveland,ATL,CLE
+5,SUN OCT 10 2010,1:00 PM,St. Louis,Detroit,STL,DET
+5,SUN OCT 10 2010,1:00 PM,Kansas City,Indianapolis,KAN,IND
+5,SUN OCT 10 2010,1:00 PM,Green Bay,Washington,GB,WAS
+5,SUN OCT 10 2010,1:00 PM,Chicago,Carolina,CHI,CAR
+5,SUN OCT 10 2010,1:00 PM,Denver,Baltimore,DEN,BAL
+5,SUN OCT 10 2010,1:00 PM,NY Giants,Houston,NYG,HOU
+5,SUN OCT 10 2010,4:05 PM,New Orleans,Arizona,NO,ARI
+5,SUN OCT 10 2010,4:15 PM,San Diego,Oakland,SD,OAK
+5,SUN OCT 10 2010,4:15 PM,Tennessee,Dallas,TEN,DAL
+5,SUN OCT 10 2010,8:20 PM,Philadelphia,San Francisco,PHI,SF
+5,MON OCT 11 2010,8:30 PM,Minnesota,NY Jets,MIN,NYJ
+6,SUN OCT 17 2010,1:00 PM,Seattle,Chicago,SEA,CHI
+6,SUN OCT 17 2010,1:00 PM,Baltimore,New England,BAL,NE
+6,SUN OCT 17 2010,1:00 PM,Detroit,NY Giants,DET,NYG
+6,SUN OCT 17 2010,1:00 PM,Atlanta,Philadelphia,ATL,PHI
+6,SUN OCT 17 2010,1:00 PM,Cleveland,Pittsburgh,CLE,PIT
+6,SUN OCT 17 2010,1:00 PM,Miami,Green Bay,MIA,GB
+6,SUN OCT 17 2010,1:00 PM,San Diego,St. Louis,SD,STL
+6,SUN OCT 17 2010,1:00 PM,New Orleans,Tampa Bay,NO,TB
+6,SUN OCT 17 2010,1:00 PM,Kansas City,Houston,KAN,HOU
+6,SUN OCT 17 2010,4:05 PM,Oakland,San Francisco,OAK,SF
+6,SUN OCT 17 2010,4:05 PM,NY Jets,Denver,NYJ,DEN
+6,SUN OCT 17 2010,4:15 PM,Dallas,Minnesota,DAL,MIN
+6,SUN OCT 17 2010,8:20 PM,Indianapolis,Washington,IND,WAS
+6,MON OCT 18 2010,8:30 PM,Tennessee,Jacksonville,TEN,JAC
+7,SUN OCT 24 2010,1:00 PM,Cincinnati,Atlanta,CIN,ATL
+7,SUN OCT 24 2010,1:00 PM,Washington,Chicago,WAS,CHI
+7,SUN OCT 24 2010,1:00 PM,St. Louis,Tampa Bay,STL,TB
+7,SUN OCT 24 2010,1:00 PM,San Francisco,Carolina,SF,CAR
+7,SUN OCT 24 2010,1:00 PM,Buffalo,Baltimore,BUF,BAL
+7,SUN OCT 24 2010,1:00 PM,Philadelphia,Tennessee,PHI,TEN
+7,SUN OCT 24 2010,1:00 PM,Jacksonville,Kansas City,JAC,KAN
+7,SUN OCT 24 2010,1:00 PM,Pittsburgh,Miami,PIT,MIA
+7,SUN OCT 24 2010,1:00 PM,Cleveland,New Orleans,CLE,NO
+7,SUN OCT 24 2010,4:05 PM,Arizona,Seattle,ARI,SEA
+7,SUN OCT 24 2010,4:15 PM,New England,San Diego,NE,SD
+7,SUN OCT 24 2010,4:15 PM,Oakland,Denver,OAK,DEN
+7,SUN OCT 24 2010,8:20 PM,Minnesota,Green Bay,MIN,GB
+7,MON OCT 25 2010,8:30 PM,NY Giants,Dallas,NYG,DAL
+8,SUN OCT 31 2010,1:00 PM,Miami,Cincinnati,MIA,CIN
+8,SUN OCT 31 2010,1:00 PM,Jacksonville,Dallas,JAC,DAL
+8,SUN OCT 31 2010,1:00 PM,Washington,Detroit,WAS,DET
+8,SUN OCT 31 2010,1:00 PM,Buffalo,Kansas City,BUF,KAN
+8,SUN OCT 31 2010,1:00 PM,Carolina,St. Louis,CAR,STL
+8,SUN OCT 31 2010,1:00 PM,Green Bay,NY Jets,GB,NYJ
+8,SUN OCT 31 2010,1:00 PM,Denver,San Francisco,DEN,SF
+8,SUN OCT 31 2010,4:05 PM,Tennessee,San Diego,TEN,SD
+8,SUN OCT 31 2010,4:15 PM,Tampa Bay,Arizona,TB,ARI
+8,SUN OCT 31 2010,4:15 PM,Minnesota,New England,MIN,NE
+8,SUN OCT 31 2010,4:15 PM,Seattle,Oakland,SEA,OAK
+8,SUN OCT 31 2010,8:20 PM,Pittsburgh,New Orleans,PIT,NO
+8,MON NOV 1 2010,8:30 PM,Houston,Indianapolis,HOU,IND
+9,SUN NOV 7 2010,1:00 PM,Tampa Bay,Atlanta,TB,ATL
+9,SUN NOV 7 2010,1:00 PM,Chicago,Buffalo,CHI,BUF
+9,SUN NOV 7 2010,1:00 PM,New England,Cleveland,NE,CLE
+9,SUN NOV 7 2010,1:00 PM,NY Jets,Detroit,NYJ,DET
+9,SUN NOV 7 2010,1:00 PM,Arizona,Minnesota,ARI,MIN
+9,SUN NOV 7 2010,1:00 PM,New Orleans,Carolina,NO,CAR
+9,SUN NOV 7 2010,1:00 PM,Miami,Baltimore,MIA,BAL
+9,SUN NOV 7 2010,1:00 PM,San Diego,Houston,SD,HOU
+9,SUN NOV 7 2010,4:05 PM,NY Giants,Seattle,NYG,SEA
+9,SUN NOV 7 2010,4:15 PM,Kansas City,Oakland,KAN,OAK
+9,SUN NOV 7 2010,4:15 PM,Indianapolis,Philadelphia,IND,PHI
+9,SUN NOV 7 2010,8:20 PM,Dallas,Green Bay,DAL,GB
+9,MON NOV 8 2010,8:30 PM,Pittsburgh,Cincinnati,PIT,CIN
+10,THU NOV 11 2010,8:20 PM,Baltimore,Atlanta,BAL,ATL
+10,SUN NOV 14 2010,1:00 PM,Detroit,Buffalo,DET,BUF
+10,SUN NOV 14 2010,1:00 PM,Minnesota,Chicago,MIN,CHI
+10,SUN NOV 14 2010,1:00 PM,NY Jets,Cleveland,NYJ,CLE
+10,SUN NOV 14 2010,1:00 PM,Carolina,Tampa Bay,CAR,TB
+10,SUN NOV 14 2010,1:00 PM,Houston,Jacksonville,HOU,JAC
+10,SUN NOV 14 2010,1:00 PM,Cincinnati,Indianapolis,CIN,IND
+10,SUN NOV 14 2010,1:00 PM,Tennessee,Miami,TEN,MIA
+10,SUN NOV 14 2010,4:05 PM,Kansas City,Denver,KAN,DEN
+10,SUN NOV 14 2010,4:15 PM,Dallas,NY Giants,DAL,NYG
+10,SUN NOV 14 2010,4:15 PM,Seattle,Arizona,SEA,ARI
+10,SUN NOV 14 2010,4:15 PM,St. Louis,San Francisco,STL,SF
+10,SUN NOV 14 2010,8:20 PM,New England,Pittsburgh,NE,PIT
+10,MON NOV 15 2010,8:30 PM,Philadelphia,Washington,PHI,WAS
+11,THU NOV 18 2010,8:20 PM,Chicago,Miami,CHI,MIA
+11,SUN NOV 21 2010,1:00 PM,Buffalo,Cincinnati,BUF,CIN
+11,SUN NOV 21 2010,1:00 PM,Detroit,Dallas,DET,DAL
+11,SUN NOV 21 2010,1:00 PM,Washington,Tennessee,WAS,TEN
+11,SUN NOV 21 2010,1:00 PM,Arizona,Kansas City,ARI,KAN
+11,SUN NOV 21 2010,1:00 PM,Green Bay,Minnesota,GB,MIN
+11,SUN NOV 21 2010,1:00 PM,Houston,NY Jets,HOU,NYJ
+11,SUN NOV 21 2010,1:00 PM,Baltimore,Carolina,BAL,CAR
+11,SUN NOV 21 2010,1:00 PM,Cleveland,Jacksonville,CLE,JAC
+11,SUN NOV 21 2010,1:00 PM,Oakland,Pittsburgh,OAK,PIT
+11,SUN NOV 21 2010,4:05 PM,Tampa Bay,San Francisco,TB,SF
+11,SUN NOV 21 2010,4:05 PM,Seattle,New Orleans,SEA,NO
+11,SUN NOV 21 2010,4:05 PM,Atlanta,St. Louis,ATL,STL
+11,SUN NOV 21 2010,4:15 PM,Indianapolis,New England,IND,NE
+11,SUN NOV 21 2010,8:20 PM,NY Giants,Philadelphia,NYG,PHI
+11,MON NOV 22 2010,8:30 PM,Denver,San Diego,DEN,SD
+12,THU NOV 25 2010,12:30 PM,New England,Detroit,NE,DET
+12,THU NOV 25 2010,4:15 PM,New Orleans,Dallas,NO,DAL
+12,THU NOV 25 2010,8:20 PM,Cincinnati,NY Jets,CIN,NYJ
+12,SUN NOV 28 2010,1:00 PM,Green Bay,Atlanta,GB,ATL
+12,SUN NOV 28 2010,1:00 PM,Pittsburgh,Buffalo,PIT,BUF
+12,SUN NOV 28 2010,1:00 PM,Philadelphia,Chicago,PHI,CHI
+12,SUN NOV 28 2010,1:00 PM,Carolina,Cleveland,CAR,CLE
+12,SUN NOV 28 2010,1:00 PM,Minnesota,Washington,MIN,WAS
+12,SUN NOV 28 2010,1:00 PM,Tampa Bay,Baltimore,TB,BAL
+12,SUN NOV 28 2010,1:00 PM,Tennessee,Houston,TEN,HOU
+12,SUN NOV 28 2010,1:00 PM,Jacksonville,NY Giants,JAC,NYG
+12,SUN NOV 28 2010,4:05 PM,Kansas City,Seattle,KAN,SEA
+12,SUN NOV 28 2010,4:05 PM,Miami,Oakland,MIA,OAK
+12,SUN NOV 28 2010,4:15 PM,St. Louis,Denver,STL,DEN
+12,SUN NOV 28 2010,8:20 PM,San Diego,Indianapolis,SD,IND
+12,MON NOV 29 2010,8:30 PM,San Francisco,Arizona,SF,ARI
+13,THU DEC 2 2010,8:20 PM,Houston,Philadelphia,HOU,PHI
+13,SUN DEC 5 2010,1:00 PM,New Orleans,Cincinnati,NO,CIN
+13,SUN DEC 5 2010,1:00 PM,Chicago,Detroit,CHI,DET
+13,SUN DEC 5 2010,1:00 PM,San Francisco,Green Bay,SF,GB
+13,SUN DEC 5 2010,1:00 PM,Jacksonville,Tennessee,JAC,TEN
+13,SUN DEC 5 2010,1:00 PM,Denver,Kansas City,DEN,KAN
+13,SUN DEC 5 2010,1:00 PM,Cleveland,Miami,CLE,MIA
+13,SUN DEC 5 2010,1:00 PM,Buffalo,Minnesota,BUF,MIN
+13,SUN DEC 5 2010,1:00 PM,Washington,NY Giants,WAS,NYG
+13,SUN DEC 5 2010,1:00 PM,Atlanta,Tampa Bay,ATL,TB
+13,SUN DEC 5 2010,4:05 PM,Oakland,San Diego,OAK,SD
+13,SUN DEC 5 2010,4:15 PM,Carolina,Seattle,CAR,SEA
+13,SUN DEC 5 2010,4:15 PM,St. Louis,Arizona,STL,ARI
+13,SUN DEC 5 2010,4:15 PM,Dallas,Indianapolis,DAL,IND
+13,SUN DEC 5 2010,8:20 PM,Pittsburgh,Baltimore,PIT,BAL
+13,MON DEC 6 2010,8:30 PM,NY Jets,New England,NYJ,NE
+14,THU DEC 9 2010,8:20 PM,Indianapolis,Tennessee,IND,TEN
+14,SUN DEC 12 2010,1:00 PM,Cleveland,Buffalo,CLE,BUF
+14,SUN DEC 12 2010,1:00 PM,New England,Chicago,NE,CHI
+14,SUN DEC 12 2010,1:00 PM,Green Bay,Detroit,GB,DET
+14,SUN DEC 12 2010,1:00 PM,NY Giants,Minnesota,NYG,MIN
+14,SUN DEC 12 2010,1:00 PM,Cincinnati,Pittsburgh,CIN,PIT
+14,SUN DEC 12 2010,1:00 PM,Tampa Bay,Washington,TB,WAS
+14,SUN DEC 12 2010,1:00 PM,Atlanta,Carolina,ATL,CAR
+14,SUN DEC 12 2010,1:00 PM,Oakland,Jacksonville,OAK,JAC
+14,SUN DEC 12 2010,4:05 PM,Seattle,San Francisco,SEA,SF
+14,SUN DEC 12 2010,4:05 PM,St. Louis,New Orleans,STL,NO
+14,SUN DEC 12 2010,4:15 PM,Miami,NY Jets,MIA,NYJ
+14,SUN DEC 12 2010,4:15 PM,Denver,Arizona,DEN,ARI
+14,SUN DEC 12 2010,4:15 PM,Kansas City,San Diego,KAN,SD
+14,SUN DEC 12 2010,8:20 PM,Philadelphia,Dallas,PHI,DAL
+14,MON DEC 13 2010,8:30 PM,Baltimore,Houston,BAL,HOU
+15,THU DEC 16 2010,8:20 PM,San Francisco,San Diego,SF,SD
+15,SUN DEC 19 2010,1:00 PM,Cleveland,Cincinnati,CLE,CIN
+15,SUN DEC 19 2010,1:00 PM,Washington,Dallas,WAS,DAL
+15,SUN DEC 19 2010,1:00 PM,Houston,Tennessee,HOU,TEN
+15,SUN DEC 19 2010,1:00 PM,Jacksonville,Indianapolis,JAC,IND
+15,SUN DEC 19 2010,1:00 PM,Kansas City,St. Louis,KAN,STL
+15,SUN DEC 19 2010,1:00 PM,Buffalo,Miami,BUF,MIA
+15,SUN DEC 19 2010,1:00 PM,Detroit,Tampa Bay,DET,TB
+15,SUN DEC 19 2010,1:00 PM,Arizona,Carolina,ARI,CAR
+15,SUN DEC 19 2010,1:00 PM,New Orleans,Baltimore,NO,BAL
+15,SUN DEC 19 2010,1:00 PM,Philadelphia,NY Giants,PHI,NYG
+15,SUN DEC 19 2010,4:05 PM,Atlanta,Seattle,ATL,SEA
+15,SUN DEC 19 2010,4:15 PM,NY Jets,Pittsburgh,NYJ,PIT
+15,SUN DEC 19 2010,4:15 PM,Denver,Oakland,DEN,OAK
+15,SUN DEC 19 2010,8:20 PM,Green Bay,New England,GB,NE
+15,MON DEC 20 2010,8:30 PM,Chicago,Minnesota,CHI,MIN
+16,THU DEC 23 2010,8:20 PM,Carolina,Pittsburgh,CAR,PIT
+16,SAT DEC 25 2010,7:30 PM,Dallas,Arizona,DAL,ARI
+16,SUN DEC 26 2010,1:00 PM,New England,Buffalo,NE,BUF
+16,SUN DEC 26 2010,1:00 PM,NY Jets,Chicago,NYJ,CHI
+16,SUN DEC 26 2010,1:00 PM,San Francisco,St. Louis,SF,STL
+16,SUN DEC 26 2010,1:00 PM,Detroit,Miami,DET,MIA
+16,SUN DEC 26 2010,1:00 PM,Minnesota,Philadelphia,MIN,PHI
+16,SUN DEC 26 2010,1:00 PM,Seattle,Tampa Bay,SEA,TB
+16,SUN DEC 26 2010,1:00 PM,Washington,Jacksonville,WAS,JAC
+16,SUN DEC 26 2010,1:00 PM,Baltimore,Cleveland,BAL,CLE
+16,SUN DEC 26 2010,1:00 PM,Tennessee,Kansas City,TEN,KAN
+16,SUN DEC 26 2010,4:05 PM,Indianapolis,Oakland,IND,OAK
+16,SUN DEC 26 2010,4:05 PM,Houston,Denver,HOU,DEN
+16,SUN DEC 26 2010,4:15 PM,NY Giants,Green Bay,NYG,GB
+16,SUN DEC 26 2010,8:20 PM,San Diego,Cincinnati,SD,CIN
+16,MON DEC 27 2010,8:30 PM,New Orleans,Atlanta,NO,ATL
+17,SUN JAN 2 2010,1:00 PM,Carolina,Atlanta,CAR,ATL
+17,SUN JAN 2 2010,1:00 PM,Pittsburgh,Cleveland,PIT,CLE
+17,SUN JAN 2 2010,1:00 PM,NY Giants,Washington,NYG,WAS
+17,SUN JAN 2 2010,1:00 PM,Cincinnati,Baltimore,CIN,BAL
+17,SUN JAN 2 2010,1:00 PM,Jacksonville,Houston,JAC,HOU
+17,SUN JAN 2 2010,1:00 PM,Minnesota,Detroit,MIN,DET
+17,SUN JAN 2 2010,1:00 PM,Chicago,Green Bay,CHI,GB
+17,SUN JAN 2 2010,1:00 PM,Tennessee,Indianapolis,TEN,IND
+17,SUN JAN 2 2010,1:00 PM,Oakland,Kansas City,OAK,KAN
+17,SUN JAN 2 2010,1:00 PM,Miami,New England,MIA,NE
+17,SUN JAN 2 2010,1:00 PM,Tampa Bay,New Orleans,TB,NO
+17,SUN JAN 2 2010,1:00 PM,Buffalo,NY Jets,BUF,NYJ
+17,SUN JAN 2 2010,1:00 PM,Dallas,Philadelphia,DAL,PHI
+17,SUN JAN 2 2010,4:15 PM,Arizona,San Francisco,ARI,SF
+17,SUN JAN 2 2010,4:15 PM,St. Louis,Seattle,STL,SEA
+17,SUN JAN 2 2010,4:15 PM,San Diego,Denver,SD,DEN

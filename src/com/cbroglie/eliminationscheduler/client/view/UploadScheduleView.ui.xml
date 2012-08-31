@@ -1,0 +1,12 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui"
+	xmlns:up="urn:import:gwtupload.client">
+
+	<ui:style>
+	</ui:style>
+
+	<g:DecoratorPanel width="100%">
+		<up:SingleUploader ui:field="uploader"/>
+	</g:DecoratorPanel>
+</ui:UiBinder>

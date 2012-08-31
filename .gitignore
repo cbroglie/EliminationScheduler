@@ -1,5 +1,7 @@
 *.class
-
+.apt_generated
+.settings
+bin
 # Package Files #
 *.jar
 *.war

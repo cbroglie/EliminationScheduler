@@ -1,0 +1,4 @@
+1) Add server support for verifying that a team isn't selected multiple times
+2) Add facicon.ico
+3) Create user entity, need to store some data about the user, such as whether they have paid
+4) Add message for IE users

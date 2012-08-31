@@ -1,0 +1,60 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder 
+	xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui"
+	xmlns:my="urn:import:com.cbroglie.eliminationscheduler.client.ui">
+
+	<ui:style type='com.cbroglie.eliminationscheduler.client.view.ScheduleView.Style'>
+		.currentWeek {
+			font-size: 2em;
+			font-weight: bold;
+			text-decoration: underline;
+		}
+
+		.defaultWeek {
+			font-size: 2em;
+			color: #777777;
+		}
+
+		.selectedTeam {
+			font-size: 2em;
+			font-weight: bold;
+		}
+
+		.excludedTeam {
+			font-size: 2em;
+			text-decoration: line-through;
+			color: #777777;
+		}
+
+		.defaultTeam {
+			font-size: 2em;
+			color: #777777;
+		}
+		
+		.teamSchedule {
+			font-size: 1em;
+			color: #777777;
+		}
+
+		.entries {
+			font-size: 1em;
+			color: #777777;
+		}
+	</ui:style>
+
+	<g:DecoratorPanel width="100%">
+		<g:HorizontalPanel width="100%">
+			<g:VerticalPanel>
+				<my:SelectOneListBox ui:field="entriesListBox" width="100%" addStyleNames="{style.entries}"/>
+				<g:Grid ui:field="weeksTable" width="100%"/>
+				<g:FlexTable ui:field="scheduleTable" width="100%"/>
+			</g:VerticalPanel>
+			<g:VerticalPanel verticalAlignment="ALIGN_MIDDLE" horizontalAlignment="ALIGN_CENTER" width="80%">
+				<my:SelectOneListBox ui:field="teamScheduleListBox" width="100%" addStyleNames="{style.teamSchedule}"/>
+				<g:FlexTable ui:field="teamScheduleTable" width="100%"/>
+			</g:VerticalPanel>
+		</g:HorizontalPanel>
+	</g:DecoratorPanel>
+
+</ui:UiBinder> 

@@ -1,0 +1,29 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+  font-size: 3em;
+  font-weight: bold;
+  color: #777777;
+  margin: 40px 0px 10px;
+  text-align: left;
+}
+
+.loading {
+	display: block;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	text-align: center;
+	margin-left: -100px;
+}
+
+.gwt-DecoratorPanel {
+	table-layout: fixed;
+}
+
+.gwt-DecoratorPanel .topLeft,
+.gwt-DecoratorPanel .topRight {
+	width: 5px;
+}
